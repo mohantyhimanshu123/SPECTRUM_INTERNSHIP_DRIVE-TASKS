@@ -7,7 +7,7 @@ The libaries include- Pandas, Matplotlib, Numpy, Seaborn
 In task 2, we actually were given with a real life dataset to handle and inport perform various operations like data cleaning,
 creating visual stats and plot for better analysis of the data, i.e Box plots, scatter plots etc...
 
-#TASK-3
+# TASK-3
 In task 3, we had to perform the major machine learning project oriented task:
 Tasks included in final_task are the basic tasks included and undertaken in any machine learning project:
 
